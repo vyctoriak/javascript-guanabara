@@ -1,1 +1,1 @@
-# JavaScript e ECMAScript - Gustavo Guanabara
+# Curso - JavaScript e ECMAScript 
